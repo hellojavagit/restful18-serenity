@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking info CURD steps","Getting Authentication","FAILURE","2022-06-07T21:55:32.160+01:00[Europe/London]","0.0","2.67"
+"Booking info CURD steps","Creating Booking ","FAILURE","2022-06-07T21:55:35.004+01:00[Europe/London]","0.0","0.54"
+"Booking info CURD steps","Deleting Booking By Id","FAILURE","2022-06-07T21:55:35.571+01:00[Europe/London]","0.0","0.58"

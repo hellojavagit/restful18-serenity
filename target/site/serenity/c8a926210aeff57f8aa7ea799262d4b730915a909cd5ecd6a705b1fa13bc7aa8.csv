@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Booking info CURD steps","Getting All Bookings","ERROR","2022-06-07T21:55:34.847+01:00[Europe/London]","0.0","0.08"
+"Booking info CURD steps","Getting Bookings By Id","ERROR","2022-06-07T21:55:34.988+01:00[Europe/London]","0.0","0.02"
+"Booking info CURD steps","Updating Booking By Id","ERROR","2022-06-07T21:55:35.540+01:00[Europe/London]","0.0","0.03"
